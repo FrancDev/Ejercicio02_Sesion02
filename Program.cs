@@ -11,7 +11,17 @@ char ITV = 'S';
 Console.WriteLine(" Cantidad de puertas:" +puertas+ "\n Cantidad de ruedas:"+ruedas+ "\n Marca:"+marca+
                   "\n ITV Vigente?:"+ITV);
 
-Console.WriteLine("--MESA---");
+Console.WriteLine("\n--MESA---");
+
+float peso = 10.5f;
+double largo = 8.3d;
+string material = "Madera";
+string color = "Caoba";
+
+Console.WriteLine(" Peso:" +peso+ "\n Largo:"+largo+ "\n Material:"+material+
+                  "\n Color:"+color);
+
+
 
 
 
